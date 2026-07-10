@@ -2,6 +2,7 @@
 top : Displays realtime and dynamic CPU and memory usage.
 htop :Displays user friendly,color coded and graphical view of processes.
 df -h :Displays free and used disk space.
+cat /etc/os-release :Dispalys flavour(Distribution) and version of Linux.
 ping :test if a remote server is reachable by sending small data packet.
 netstat -tuln:Shows all listing network ports on your system.This is erfect for checking if a service like(web server on port 80)is running correctly.
 
