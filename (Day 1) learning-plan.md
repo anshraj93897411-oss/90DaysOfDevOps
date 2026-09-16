@@ -4,9 +4,9 @@ DevOps is method,culture and mindset which create bridge between Devlopment and 
 DevOps is method,Culture and Mindset while Cloud is Tool box.
 
 Why you are starting learning DevOps & Cloud?
-I am learning DevOps and Cloud to become DevOps and to earn money
+I am learning DevOps and Cloud to become DevOps Engineerand to earn money
 Where do you want to reach?
-Site Reliability Engineer Post
+DevOps Engineer Post
 How you will stay consistent every single day?
 I will stay consistent every single day by focusing on my Goal to Become Site Reliability Engineer
 
