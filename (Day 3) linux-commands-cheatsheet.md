@@ -19,3 +19,5 @@ ip addr -check if internet interfaces are UP and have valid assigned IP addresse
 ping -It test  basic network connectivity and packet loss to a specific destination
 dig -verifies if DNS servers are properly translating domain name into IP addresses
 
+**Date:** 18/Sept/2026
+
