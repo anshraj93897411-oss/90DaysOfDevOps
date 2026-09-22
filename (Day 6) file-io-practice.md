@@ -12,3 +12,5 @@ Redirect(>) : It add new text to a file and it delete current (existing) data.
 cat: It reads file.
 head : It reads first 10 lines of a file by default.
 tail :It reads last 10 lines of a file by default.
+
+**Date:** 22/Sept/2026
