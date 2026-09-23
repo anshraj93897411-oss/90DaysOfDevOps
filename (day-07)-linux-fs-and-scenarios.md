@@ -1,4 +1,4 @@
-                                Task-File System Hierarchy
+                                              Task-File System Hierarchy
                                   
 Linux File System Hierarchy-File system Hierarchy in Linux is a strutured upside-down tree of folders.It starts with a single base called Root(written as /) and every thing in computer like programs,user files ,hardware devices are branches out from this root directory. 
 
