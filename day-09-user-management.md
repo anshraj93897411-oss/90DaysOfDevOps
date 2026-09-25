@@ -24,4 +24,9 @@ sudo chmod 775 <directory>
 touch
 
 ## What I Learned
-[3 key points]
+Linux User & Group Management:
+- creating user
+- creating group
+- Assign user to group
+
+**Date:** 25/Sept/2026
