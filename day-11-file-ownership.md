@@ -15,7 +15,6 @@
 - touch bank-heist/escape-plan.txt
 
 ## Ownership Changes
-Example:
 - devops-file.txt: ubuntu:ubuntu → tokyo:heist-team
 - team-notes.txt : ubuntu:ubuntu → ubuntu:heist-team
 - project-config.yaml : ubuntu:ubuntu → professor:heist-team
@@ -40,7 +39,7 @@ sudo chown owner:group filename
 
 # Recursive change (directories)
 sudo chown -R owner:group directory/
-
++
 #touch - To make file
 
 mkdir - To make directory
