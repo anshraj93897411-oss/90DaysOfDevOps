@@ -8,7 +8,7 @@ I am learning DevOps and Cloud to become DevOps Engineer and to earn money
 Where do you want to reach?
 DevOps Engineer Post
 How you will stay consistent every single day?
-I will stay consistent every single day by focusing on my Goal to Become Site Reliability Engineer
+I will stay consistent every single day by focusing on my Goal to Become DevOps Engineer
 
 
 **Date:** 2026-09-16
