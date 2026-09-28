@@ -12,4 +12,6 @@
   I safely change ownership by using chown command and i also change permissions of a file or directory safely by using chmod command.
   
 - What will you focus on improving in the next 3 days?
-  For next three days i will focus on improving Linux fundamentals by revising them and learn new concepts like Shell Scripting.
+  For next three days i will focus on improving Linux fundamentals by revising them again and learn new concepts like Shell Scripting.
+
+  **Date:** 28/Sept/2026
